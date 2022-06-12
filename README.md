@@ -10,7 +10,7 @@
 </p> 
 
 
-## Introduction 
+## 🌍 Introduction  🌎
 In this repository you will find all of the necessary Python files and Jupyter Notebooks I used to finish the capstone Project of the IBM Data Science Course. Object of this project is SpaceX. SpaceX is a leading designer and manufacturer of rockets and spacecraft. According to the website of SpaceX the cost of their rocket launches is $62 million, while other providers cost upwards of $165 million per launch. Much of the savings is because SpaceX can reuse the first stage of the rocket. However sometimes, the first stage does not land or cannot be recovered. Therefore if we can determine if the first stage will successfully land, we can determine the cost of a specific launch. 
 
 In this project I'll collect and process raw data from a variety of sources, explore the data using different visual analytics tools, and build a predictive model to determine wheter the first stage of the SpaceX Falcon 9 rocket will land successfully for other companies to bid on the outcome more informed.
